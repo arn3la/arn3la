@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @arn3la
 - 👀 I’m interested in mobile development, especially Flutter.
-- 🌱 I’m currently learning Kotlin.
-- 💞️ I’m looking to collaborate on any Flutter project.
 - 📫 How to reach me: arnela.jasarevic1996@gmail.com
 
 <!---
